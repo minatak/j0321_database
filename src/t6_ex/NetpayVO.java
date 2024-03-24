@@ -74,7 +74,7 @@ public class NetpayVO {
 	}
 	@Override
 	public String toString() {
-		return "NetpayVO [jikkub=" + jikkub + ", bonbong=" + bonbong + ", idx=" + idx + ", sabun=" + sabun + ", buseo="
+		return "NetpayVO [jikkub=" + jikkub + ", bonbong =" + bonbong + ", idx=" + idx + ", sabun=" + sabun + ", buseo="
 				+ buseo + ", name=" + name + ", age=" + age + ", ipsail=" + ipsail + ", gender=" + gender + ", address="
 				+ address + "]";
 	}
